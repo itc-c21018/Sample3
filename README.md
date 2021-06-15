@@ -8,5 +8,5 @@ https://github.com/itc-c21018/Sample2
 [okonomi.txt](okonomi.txt)
 
 ## リモートリポジトリ
-*README.mdを作ってみる  
+*README.md(README.md)を作ってみる  
 *マークダウンを覚える
