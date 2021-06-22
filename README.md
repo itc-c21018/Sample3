@@ -1,4 +1,4 @@
-# はじめてのGitHub
+# はじめてのGitHub3
 
 itc-c21018 花城英斗  
 https://github.com/itc-c21018/Sample2
