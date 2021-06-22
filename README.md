@@ -1,7 +1,7 @@
 # はじめてのGitHub3
 
 itc-c21018 花城英斗  
-https://github.com/itc-c21018/Sample2
+https://github.com/itc-c21018/Sample3
 
 ## ローカルリポジトリ
 * お好み焼きレシピ  
